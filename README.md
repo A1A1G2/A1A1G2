@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ⚙️ Working and stdying on ROS 
+- ⚙️ Working and studying on ROS 
 - ⚡️ Aurora uav Software team member
 - 🍑 Making cool stuf with Processing
 
