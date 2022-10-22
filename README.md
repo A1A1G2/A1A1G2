@@ -1,6 +1,6 @@
 ### Hi 👋
 
-#### I'm a Student in Yıldız Technical University
+#### I'm a Student at Yıldız Technical University
 
 ##### NOW
 
